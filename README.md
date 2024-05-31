@@ -5,7 +5,7 @@ My Portfolio Website ---> Dixit Portfolio
 Using  HTML5, CSS3, JavaScript.
 ---------------------
 
-DEMO ---->
+DEMO ---->  https://portfolio-dixit-thakor.netlify.app/
 ---------------------
 
 ![image](https://github.com/thakordixit567/portflio-dix/blob/master/assets/demo/Screenshot%202024-05-31%20212509.png)
